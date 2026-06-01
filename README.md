@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Mobile apps with Flutter & Kotlin, and sharpening my TypeScript + Next.js skills<br><br>👯 I’m looking to collaborate on also help with<br>Backend APIs, automation projects, or anything involving real system design<br>🤝 I’m looking for help with<br>Open source contribution workflows and production-grade architecture patterns<br>I'm currently learning<br><br>🌱 I’m currently learning<br>TypeScript, React, Next.js, Flutter<br><br>⚡ Fun fact<br>I've watched 900+ anime titles and I still finish my assignments on time
+🔭 I’m currently working on<br>Mobile apps with Flutter & Kotlin, and sharpening my TypeScript + Next.js skills<br><br>👯 I’m looking to collaborate on also help with<br>Backend APIs, automation projects, or anything involving real system design<br><br>🤝 I’m looking for help with<br>Open source contribution workflows and production-grade architecture patterns<br>I'm currently learning<br><br>🌱 I’m currently learning<br>TypeScript, React, Next.js, Flutter<br><br>⚡ Fun fact<br>I've watched 900+ anime titles and I still finish my assignments on time
 
 
 ## 🌐 Socials:
